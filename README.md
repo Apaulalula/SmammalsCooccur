@@ -12,14 +12,15 @@ Costa, A. P. L., Winck, G. R., Teixeira, B. R., Gentile, R., Vieira, E. M., Pard
 
 Methods of data collection/generation: see manuscript for details
 
-### The authors respectfully request to be contacted by researchers interested in the raw data of small mammal occurrences.
+The authors respectfully request to be contacted by researchers interested in the raw data of small mammal occurrences.
 
 ## Contact Information
-Name: Cecilia S. Andreazzi
+
+Name: Ana Paula Lula Costa
 
 Affiliation: Laboratório de Biologia e Parasitologia de Mamíferos Silvestres Reservatórios, Instituto Oswaldo Cruz, Fiocruz, Rio de Janeiro, RJ, Brazil.
 
-ORCID ID: https://orcid.org/0000-0002-9817-0635
+ORCID ID: https://orcid.org/0000-0003-4854-160X
 
 Email: anapaulalula@gmail.com
 
