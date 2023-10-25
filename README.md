@@ -7,11 +7,11 @@ Costa, A. P. L., Winck, G. R., Teixeira, B. R., Gentile, R., Vieira, E. M., Pard
 ## Code
 All analyses were made in R.
 
-Script for network analyses
+### Script for network analyses
 
 Costa.2023-Hmsc_CentralHosts.R
 
-Script for constructing Hmsc model and analyzing its parameters
+### Script for constructing Hmsc model and analyzing its parameters
 
 Costa.2023-Hmsc_Cooccur.R
 
