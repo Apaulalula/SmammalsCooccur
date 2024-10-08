@@ -1,0 +1,53 @@
+;Species;Modules;Betweenness;Central_hosts
+1;abrawayaomys.ruschii;3;2.325507634;Non-Central
+2;akodon.cursor;3;1220.32097;Central
+3;akodon.montensis;3;2453.310253;Central
+4;akodon.paranaensis;5;4.218487137;Non-Central
+5;calomys.tener;2;145.5829684;Central
+6;caluromys.philander;4;26.02876213;Non-Central
+7;cerradomys.subflavus;5;218.96004;Central
+8;delomys.dorsalis;6;32.78691937;Non-Central
+9;delomys.sublineatus;6;1.372800154;Non-Central
+10;didelphis.albiventris;1;4246.100103;Central
+11;didelphis.aurita;1;2929.773773;Central
+12;euryoryzomys.russatus;6;260.8669273;Central
+13;gracilinanus.agilis;4;563.2275022;Central
+14;gracilinanus.microtarsus;4;75.55366709;Central
+15;hylaeamys.seuanezi;6;63.30974573;Non-Central
+16;marmosa.demerarae;4;15.94655629;Non-Central
+17;marmosa.murina;4;546.44862;Central
+18;marmosa.paraguayana;4;6.518548447;Non-Central
+19;marmosops.incanus;4;32.54788549;Non-Central
+20;marmosops.paulensis;4;0;Non-Central
+21;metachirus.myosuros;1;207.2246901;Central
+22;monodelphis.americana;4;39.878638;Non-Central
+23;necromys.lasiurus;2;1933.40074;Central
+24;nectomys.squamipes;6;1330.683457;Central
+25;oecomys.catherinae;6;0;Non-Central
+26;oligoryzomys.flavescens;3;69.33797897;Central
+27;oligoryzomys.nigripes;3;2041.21166;Central
+28;oxymycterus.dasytrichus;6;129.6190174;Central
+29;oxymycterus.delator;6;5.261795601;Non-Central
+30;oxymycterus.quaestor;4;0;Non-Central
+31;philander.quica;1;6.309775392;Non-Central
+32;rhipidomys.mastacalis;2;0;Non-Central
+33;sooretamys.angouya;3;67.6909914;Non-Central
+34;thaptomys.nigrita;3;57.41353003;Non-Central
+35;trinomys.dimidiatus;5;0.767689463;Non-Central
+36;trinomys.paratus;4;0;Non-Central
+37;blarinomys.breviceps;no registry;unrecorded;unrecorded
+38;brucepattersonius.soricinus;no registry;unrecorded;unrecorded
+39;monodelphis.scalops;no registry;unrecorded;unrecorded
+40;phyllomys.nigrispinus;no registry;unrecorded;unrecorded
+41;cryptonanus.agricolai;no registry;unrecorded;unrecorded
+42;juliomys.pictipes;no registry;unrecorded;unrecorded
+43;castoria.angustidens;no registry;unrecorded;unrecorded
+44;monodelphis.dimidiata;no registry;unrecorded;unrecorded
+45;trinomys.gratiosus.bonafidei;no registry;unrecorded;unrecorded
+46;rhagomys.rufescens;no registry;unrecorded;unrecorded
+47;monodelphis.iheringi;no registry;unrecorded;unrecorded
+48;drymoreomys.albimaculatus;no registry;unrecorded;unrecorded
+49;monodelphis.pinocchio;no registry;unrecorded;unrecorded
+50;oxymycterus.rufus;no registry;unrecorded;unrecorded
+51;monodelphis.kunsi;no registry;unrecorded;unrecorded
+52;bibimys.labiosus;no registry;unrecorded;unrecorded
